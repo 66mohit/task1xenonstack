@@ -1,6 +1,6 @@
 # taskx
 # Repository Name
-
+#this task is done using my friends lapyop as it was a linux laptop
 ## Section A
 
 ### Steps
